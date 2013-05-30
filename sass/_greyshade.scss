@@ -5,7 +5,7 @@ html {
 }
 
 body {
-	background: #3D4349;
+	background: #eaeaea;
 	font-family: "Open Sans", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 	height: 100%;
 }
@@ -173,7 +173,7 @@ body {
 	.left-col {
 		width: 23%;
 		position: fixed;
-		opacity: .3;
+		opacity: .8;
 		-webkit-transition: all .2s ease-in;
 		-moz-transition: all .2s ease-in;
 		-o-transition: all .2s ease-in;
@@ -197,8 +197,7 @@ body {
 				}
 			}
 			a {
-				color: #EFEFEF;
-				text-shadow: 0 1px #333;
+				color: #4680AB;
 			}
 			a:hover {
 				color: $greyshade;
